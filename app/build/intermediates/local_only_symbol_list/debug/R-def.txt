@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id aae
+id eme
+id employee_id_txt
+id employee_name_txt
+id ennnnn
+id ennnnnn
+id idddd
+id ll
+id productRecyclerView
+layout employee_adapter_item
+layout employee_recyclerview
+layout listtttt
+layout listttttt
+layout listtttttt
+layout main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ZobazeRefractorTask
+style Theme.ZobazeRefractorTask
+xml backup_rules
+xml data_extraction_rules

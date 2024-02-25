@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-mergeDebugResources-37:\\layout\\main.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-main-40:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-mergeDebugResources-37:\\layout\\employee_recyclerview.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-main-40:\\layout\\employee_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-mergeDebugResources-37:\\layout\\listttttt.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-main-40:\\layout\\listttttt.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-mergeDebugResources-37:\\layout\\listtttt.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-main-40:\\layout\\listtttt.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-mergeDebugResources-37:\\layout\\listtttttt.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-main-40:\\layout\\listtttttt.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-mergeDebugResources-37:\\layout\\employee_adapter_item.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\com.zobaze.zobazerefractortask.app-main-40:\\layout\\employee_adapter_item.xml"
+    },
+    {
+        "merged": "com.zobaze.zobazerefractortask.app-mergeDebugResources-37:/layout/employee_adapter_item.xml",
+        "source": "com.zobaze.zobazerefractortask.app-main-40:/layout/employee_adapter_item.xml"
+    }
+]
